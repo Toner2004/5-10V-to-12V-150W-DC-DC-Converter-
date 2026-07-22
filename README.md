@@ -1,4 +1,4 @@
-# 5-10V-to-12V-150W-DC-DC-Converter-
+# 5-10V-to-12V-150W-DC-DC-Converter
 150W Synchronous Boost Converter (5–10V to 12V) Based on TI LM5123-Q1
 
 A high-power synchronous boost converter designed to convert a 5V–10V input source into a regulated 12V output at up to 150W using the Texas Instruments LM5123-Q1 controller.
@@ -72,6 +72,7 @@ Design techniques used include:
 5. DRC verification
 6. Gerber and NC drill generation
 7. Manufacturing through JLCPCB
+   - Redesigns based of manufacturer CAM design faults
 
 ---
 
