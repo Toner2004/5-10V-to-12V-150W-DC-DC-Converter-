@@ -1,3 +1,4 @@
+
 # 5-10V-to-12V-150W-DC-DC-Converter
 150W Synchronous Boost Converter (5–10V to 12V) Based on TI LM5123-Q1
 
@@ -75,5 +76,9 @@ Design techniques used include:
    - Redesigns based of manufacturer CAM design faults
 
 ---
+<img width="791" height="379" alt="Screenshot 2026-07-22 031527" src="https://github.com/user-attachments/assets/20347400-2423-47de-b69d-11e11f9938da" />
+
+
+<img width="838" height="424" alt="Screenshot 2026-07-22 031459" src="https://github.com/user-attachments/assets/596781e8-fb27-4618-b1f3-66ea0c7a7a70" />
 
 ## Repository Contents
